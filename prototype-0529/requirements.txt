@@ -4,5 +4,4 @@ pillow
 langchain
 openai
 langchain_openai
-langchain_community==0.2.1
-
+langchain_community == 0.2.1

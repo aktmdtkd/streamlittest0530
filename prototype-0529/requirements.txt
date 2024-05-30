@@ -1,0 +1,8 @@
+streamlit ='1.5.0'
+pymysql
+pillow
+langchain
+openai
+langchain_openai
+langchain_community ='0.2.1'
+
